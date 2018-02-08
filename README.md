@@ -1,3 +1,4 @@
 # [Sample Repo] PR Practice
 A sample repo for practicing how to create Pull Requests
-
+add summary
+in the same place as intro
